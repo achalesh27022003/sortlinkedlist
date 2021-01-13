@@ -25,6 +25,6 @@
 </ul>
 <h2> Contributorss: </h2>
 <ul>
-  <li> @achalesh27022003 </li>
-  <li> @koolgax99 </li>
+  <li><a href = "https://github.com/achalesh27022003">@achalesh27022003 </a> </li>
+  <li><a href = "https://github.com/koolgax99">@koolgax99 </a> </li>
 </ul>
