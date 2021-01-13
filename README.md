@@ -1,4 +1,4 @@
-# Submission to sort singly linkedlist in Python & C++.
+# Submission to sort singly linkedlist in Python & C Programming Languages.
 <p>This repository is as submission for MLH Local Hack Build Day - 3 challenge.</p>
 <h2> Algorithm for Python Code: </h2>
 <p> We are sorting singly linked list in ascending order.Initially, current point to head node and index will point to node next to current. While traversing through the list till current points to null, by comparing current's data with index's data. If current's data is greater than the index's data, then swapping data between them </p>
