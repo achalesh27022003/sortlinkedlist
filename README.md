@@ -9,6 +9,14 @@
   <li>sortList() function will sort the nodes of the linked list in ascending order.</li>
   <li>display() function will display the nodes present in the linked list.</li>
 </ul>
+<h2> Algorithm for C Code: </h2>
+<p> We simply implemented bubble sort on singly linked list.</p>
+<ul>
+  <li>insertAtTheBegin() function insert a node at beginning.</li>
+  <li>bubblesort() function to bubble sort the linked list.</li>
+  <li>printList() function to print singly linked list.</li>
+  <li>swap() function to swap two data values.</li>
+</ul>
 <h2> Pre-requisites: </h2>
 <ul>
   <li> Knowledge of Linked List Data Structure </li>
